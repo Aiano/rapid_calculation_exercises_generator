@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rapid_calculation_exercises_generator.dir/main.cpp.o  -o rapid_calculation_exercises_generator 
